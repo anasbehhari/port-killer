@@ -1,5 +1,5 @@
 {
-  "name": "port-killer",
+  "name": "kp-node",
   "version": "1.0.0",
   "description": "A CLI tool to quickly identify and terminate processes running on specified ports",
   "type": "module",
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/port-killer.git"
+    "url": "https://github.com/anasbehhari/port-killer.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/port-killer/issues"
+    "url": "https://github.com/anasbehhari/port-killer/issues"
   },
-  "homepage": "https://github.com/yourusername/port-killer#readme"
+  "homepage": "https://github.com/anasbehhari/port-killer#readme"
 }

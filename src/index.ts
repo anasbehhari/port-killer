@@ -10,7 +10,7 @@ import { findProcessByPort, getAllActivePorts, killProcess } from './utils/proce
 
 const program = new Command();
 const config = new Conf<{ presets: Record<string, number[]> }>({
-    projectName: 'port-killer',
+    projectName: 'kp-node',
     defaults: {
         presets: {}
     }

@@ -16,7 +16,7 @@ A powerful Node.js CLI tool that quickly identifies and terminates processes run
 ## Installation
 
 ```bash
-npm install -g port-killer
+npm install -g kp-node
 ```
 
 ## Usage
